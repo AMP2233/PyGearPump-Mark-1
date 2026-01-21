@@ -297,12 +297,6 @@ Adrian Livio Carhuaz - adrian.carhuaz@ucb.edu.bo
 
 
 
-
-
-
-He actualizado el README del proyecto **Algoritmo para Automatización de Diseño y Simulación de Bombas de Engranajes Externos** incorporando toda la información relevante del PDF de la tesis. Aquí está el README completo y mejorado:
-
-```markdown
 # 🚀 Algoritmo para Automatización de Diseño y Simulación de Bombas de Engranajes Externos
 
 **Autor:** Adrian Livio Carhuaz Encinas  
