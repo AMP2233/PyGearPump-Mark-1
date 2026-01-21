@@ -1,4 +1,4 @@
-# 🚀 Sistema de Diseño Paramétrico de Bombas de Engranajes - Mark I
+# 🚀 ALGORITMO PARA AUTOMATIZACION DE DISEÑO Y SIMULACION DE BOMBAS DE ENGRANAJES EXTERNOS - Mark I
 
 Un sistema completo de diseño paramétrico para bombas de engranajes externos, que integra cálculo teórico, análisis de esfuerzos, y generación automática de modelos CAD 3D.
 
